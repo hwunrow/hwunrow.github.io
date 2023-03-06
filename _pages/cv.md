@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, University of Minnesota, 2017
+* M.S. in Applied Mathematics, University of Washington, 2021
+* Ph.D in Applied Mathematics, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: REU Mentor
+  * Columbia University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: MARTIANS Graduate Intern
+  * Santia National Laboratories
+
+* Sept 2018 - June 2020: Post-Bachelor Fellow
+  * Institute for Health Metrics and Evaluation
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: (proficient) Python, R, SQL, Mathematica, MATLAB (familiar) Java, C++, SAS, STATA
+* Technologies: Bash/ Linux OS, Git, Jira, HPC (SLURM, SGE)
+* Mathematics: Extensive coursework in machine learning, statistics, probability, optimization, linear algebra, partial differential equations, and analysis
+
 
 Publications
 ======
@@ -56,4 +53,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-Vice President, APAM Graduate Student Council
+* Volunteer Tutor, Double Discovery Center - Columbia University
