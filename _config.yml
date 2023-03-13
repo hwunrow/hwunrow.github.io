@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Han Yong Wunrow / Site Title"
+title                    : "Han Yong Wunrow / HY in NY"
 title_separator          : "-"
 name                     : &name "Han Yong Wunrow"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=431nZ_gAAAAJ&hl=en"
-  email            :
+  email            : "nhw2114@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
