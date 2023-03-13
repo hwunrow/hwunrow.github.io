@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Han Yong Wunrow / HY in NY"
+title                    : "HY in NY"
 title_separator          : "-"
 name                     : &name "Han Yong Wunrow"
 description              : &description "personal description"
