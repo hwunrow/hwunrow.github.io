@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, University of Minnesota, 2017
-* M.S. in Applied Mathematics, University of Washington, 2021
 * Ph.D in Applied Mathematics, 2026 (expected)
+* M.S. in Applied Mathematics, University of Washington, 2021
+* B.S. in Mathematics, University of Minnesota, 2017
 
 Work experience
 ======
