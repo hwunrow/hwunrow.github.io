@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Han Yong (first name) Wunrow (last name). Currently, I am a second year PhD Student in the [Department of Applied Physics and Applied Mathematics, Columbia University](https://www.apam.columbia.edu/), advised by [Jeffrey Shaman](https://blogs.cuit.columbia.edu/jls106/), Marc Spiegelman](https://www.ldeo.columbia.edu/~mspieg/), and [Sen Pei](http://www.columbia.edu/~sp3449/).
+My name is Han Yong (first name) Wunrow (last name). Currently, I am a second year PhD Student in the [Department of Applied Physics and Applied Mathematics, Columbia University](https://www.apam.columbia.edu/), advised by [Jeffrey Shaman](https://blogs.cuit.columbia.edu/jls106/), [Marc Spiegelman](https://www.ldeo.columbia.edu/~mspieg/), and [Sen Pei](http://www.columbia.edu/~sp3449/).
 
 I am interested in the science of transforming raw health data into actionable information through mathematical modeling and computational science. In particular, my research interests include data assimilation, Bayesian inference, and probabilisic modeling. Outside of mathematics, I am interested in advocacy, workplace organizing, and running.
 
