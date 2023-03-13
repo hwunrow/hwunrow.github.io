@@ -18,13 +18,16 @@ Education
 Work experience
 ======
 * Summer 2022: REU Mentor
-  * Columbia University
+  * Columbia University Summer Undergraduate Research Experiences in Mathematical Modeling
 
 * Summer 2021: MARTIANS Graduate Intern
   * Santia National Laboratories
 
-* Sept 2018 - June 2020: Post-Bachelor Fellow
+* Sept 2018 - Jun 2020: Post-Bachelor Fellow
   * Institute for Health Metrics and Evaluation
+
+* Jul 2017 - Jul 2018: Fulbright Scholar - English Teaching Assistant
+  * Fulbright Commission, Seoul, South Korea
   
 Skills
 ======
@@ -35,15 +38,9 @@ Skills
 
 Publications
 ======
-  <!-- <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 Teaching
 ======
@@ -53,5 +50,6 @@ Teaching
   
 Service and leadership
 ======
-* Co-Vice President, APAM Graduate Student Council
-* Volunteer Tutor, Double Discovery Center - Columbia University
+* Co-Vice President, APAM Graduate Student Council (Apr 2022 - Present)
+* Volunteer Tutor, Double Discovery Center - Columbia University (Oct 2021 - May 2022)
+* Midwest Regional Coordinator, Society of Asian Scientists and Engineers  (May 2018 - Sept 2020)
