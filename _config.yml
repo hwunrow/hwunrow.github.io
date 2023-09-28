@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "HY in NY"
 title_separator          : "-"
-name                     : &name "Han Yong Wunrow"
+name                     : &name "Han Yong Wunrow (he/they)"
 description              : &description "personal description"
 url                      : https://hwunrow.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
