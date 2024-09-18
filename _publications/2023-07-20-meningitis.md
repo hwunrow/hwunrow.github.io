@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-07-20-meningitis
 excerpt: ''
 date: 2023-07-20
-venue: 'The Lancet'
+venue: 'The Lancet Neurology'
 paperurl: 'https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(23)00195-3/fulltext'
 citation: 'Wunrow, H.Y., Bender, R.G., Vongpradith, A., et al. (2023). Global, regional, and national burden of meningitis and its aetiologies, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019. The Lancet Neurology, 22(8): 685-711. doi:10.1016/S1474-4422(23)00195-3.'
 ---
